@@ -1,4 +1,4 @@
-baseURL = "https://ILattisI.github.io/my_launchx_blog/"
+baseURL = "https://ilattisi.github.io/my_launchx_blog/"
 languageCode = "en-us"
 title = "Bitácora de Viaje de Lattis"
 theme = "hugo-winston-theme"
